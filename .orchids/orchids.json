@@ -1,0 +1,10 @@
+{
+  "projectId": "2c4e77c4-7530-4fc3-8c1c-a73b4fb30a7a",
+  "createdAt": 1771141741528,
+  "version": "1.0",
+  "startupCommands": [
+    "bun install; bun run dev"
+  ],
+  "envKeys": ["NEXT_PUBLIC_SUPABASE_URL", "NEXT_PUBLIC_SUPABASE_ANON_KEY", "SUPABASE_SERVICE_ROLE_KEY", "DATABASE_URL"],
+  "templateId": "nextjs"
+}
