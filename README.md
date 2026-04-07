@@ -32,7 +32,7 @@ src/
 │   ├── layout.tsx
 │   └── page.tsx                # Main portfolio page
 └── lib/
-    └── supabase.ts             # Supabase client config
+    └── Mongodb Atlat.ts             # Mongodb Atlat client config
 ```
 
 ## Setup Instructions
@@ -52,7 +52,7 @@ npm install
 
 ### 3. Set Up Supabase Database
 
-1. Create a free account at [supabase.com](https://supabase.com)
+1. Create a free account at [Mongodb Atlas: cloud.mongodb.com)
 2. Create a new project
 3. Run the following SQL in the Supabase SQL Editor:
 
