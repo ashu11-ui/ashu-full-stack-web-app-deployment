@@ -17,7 +17,7 @@ A full-stack portfolio website built with **Next.js**, **TypeScript**, **Tailwin
 | Frontend  | React, Next.js 15, TypeScript     |
 | Styling   | Tailwind CSS 4                    |
 | Backend   | Next.js API Routes                |
-| Database  | Supabase (PostgreSQL)             |
+| Database  | Mongodb Atlat           |
 | Hosting   | Vercel (recommended)              |
 
 ## Project Structure
